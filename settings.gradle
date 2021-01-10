@@ -1,0 +1,9 @@
+include ':app:guangbo'
+include ':app:networkdemo'
+include ':app:fragement'
+include ':app:homework'
+include ':app:chapter04-ui'
+include ':app:activitybootmode'
+include ':app:intentdemo'
+include ':app'
+rootProject.name = "My Application"
